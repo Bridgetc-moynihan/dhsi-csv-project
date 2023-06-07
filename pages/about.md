@@ -14,6 +14,28 @@ credits: true
 
 ## About CollectionBuilder CSV
 
+### Heading Three
+
+#### Heading Four
+
+Sentence one of my paragraph.
+Sentence two of my paragraph.
+Sentence three of my paragraph. 
+Each has its own line in the code, but show up together in display.
+
+This is a new paragraph, which I made by putting a blank line of code.
+
+[This is a link](https://www.lib.uidaho.edu/digital/)
+
+I can make lists as well
+- thing 1
+- thing 2
+- thing 3
+
+1. Something 1
+2. Something 2
+3. Something 3
+
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
